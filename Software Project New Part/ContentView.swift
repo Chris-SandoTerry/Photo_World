@@ -6,6 +6,8 @@
 //
 //bruh
 //Tanner sucks balls
+//lmao
+//loser
 
 import SwiftUI
 
