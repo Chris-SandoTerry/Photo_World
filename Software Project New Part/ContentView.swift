@@ -9,6 +9,7 @@
 //lmao
 //loser
 //Suck on these nuts
+//bruh 
 
 import SwiftUI
 
