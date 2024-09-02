@@ -11,5 +11,5 @@ PhotoWorld is a mobile application that allows users to capture and share photos
 - **Photo Upload**: Upload photos to Firebase Cloud Storage.
 - **Regional Organization**: Photos are categorized by region for better organization and access.
 
-##Coming Soon
+## Coming Soon
 - **Photo Viewing**: Browse and view photos shared by other users.
